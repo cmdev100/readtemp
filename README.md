@@ -1,4 +1,4 @@
-# Readtemp version
+# Readtemp
 
 Readtemp is a temperature reading program.
 This is an exercise for me to learn Python. And be familiar with Visual Studio Code.
